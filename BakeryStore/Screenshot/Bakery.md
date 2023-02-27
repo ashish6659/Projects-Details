@@ -19,34 +19,29 @@
 
 <p align="center"> 
    <p align="center"> Login Page. </p>
-<img src="https://github.com/ashish6659/Projects-Details/blob/main/FurnitureStore/Screenshot/furniture_login.png" width="1366px" alt="Login page" />
+<img src="https://github.com/ashish6659/Projects-Details/blob/main/BakeryStore/Screenshot/bakery_login.png" width="1366px" alt="Login page" />
   <p align="center"> Register Page. </p>
-<img src="https://github.com/ashish6659/Projects-Details/blob/main/FurnitureStore/Screenshot/furniture_register.png" width="1366px" alt="Register page" />
+<img src="https://github.com/ashish6659/Projects-Details/blob/main/BakeryStore/Screenshot/bakery_register.png" width="1366px" alt="Register page" />
  <p align="center"> Home Page. </p>
-<img src="https://github.com/ashish6659/Projects-Details/blob/main/FurnitureStore/Screenshot/furniture_home.png" width="1366px" alt="Home Page" />
- <p align="center"> Product Detail Page. </p>
-<img src="https://github.com/ashish6659/Projects-Details/blob/main/FurnitureStore/Screenshot/furniture_productdetail.png" width="1366px" alt="Product Detail page" />
+<img src="https://github.com/ashish6659/Projects-Details/blob/main/BakeryStore/Screenshot/bakery_home.png" width="1366px" alt="Home Page" />
    <p align="center"> Cart Page. </p>
- <img src="https://github.com/ashish6659/Projects-Details/blob/main/FurnitureStore/Screenshot/furniture_cart.png" width="1366px" alt="Cart page" />
+ <img src="https://github.com/ashish6659/Projects-Details/blob/main/BakeryStore/Screenshot/bakery_cart.png" width="1366px" alt="Cart page" />
+  <p align="center"> Checkout Page. </p>
+<img src="https://github.com/ashish6659/Projects-Details/blob/main/BakeryStore/Screenshot/bakery_checkout.png" width="1366px" alt="Feedback Page" />
   <p align="center"> Your Order Page. </p>
-<img src="https://github.com/ashish6659/Projects-Details/blob/main/FurnitureStore/Screenshot/furniture_order.png" width="1366px" alt="Order Page" />
- <p align="center"> Feedback Page. </p>
-<img src="https://github.com/ashish6659/Projects-Details/blob/main/FurnitureStore/Screenshot/furniture_feedback.png" width="1366px" alt="Feedback Page" />
- <p align="center"> Admin Login Page. </p>
-<img src="https://github.com/ashish6659/Projects-Details/blob/main/FurnitureStore/Screenshot/furniture_admin_login.png" width="1366px" alt="Admin Login" />
- <p align="center"> Admin Dashboard Page. </p>
-  <img src="https://github.com/ashish6659/Projects-Details/blob/main/FurnitureStore/Screenshot/furniture_admin.png" width="1366px" alt="Admin Dashboard" />
-   <p align="center"> Add Category Page. </p>
-  <img src="https://github.com/ashish6659/Projects-Details/blob/main/FurnitureStore/Screenshot/furniture_admin_category.png" width="1366px" alt="Add category" />
-   <p align="center"> Add product Page. </p>
-  <img src="https://github.com/ashish6659/Projects-Details/blob/main/FurnitureStore/Screenshot/furniture_admin_product.png" width="1366px" alt="Add Product" />
-</p>
+<img src="https://github.com/ashish6659/Projects-Details/blob/main/BakeryStore/Screenshot/bakery_orders.png" width="1366px" alt="Order Page" />
+ <p align="center"> Contact Page. </p>
+<img src="https://github.com/ashish6659/Projects-Details/blob/main/BakeryStore/Screenshot/bakery_contact.png" width="1366px" alt="Admin Login" />
+
 <br />
 
 <h3 align="center"> Below is the Screen Recording of the App. Check Working in the Video</h3>
 <br/>
 
-#### <p align="center"> [ Checkout The Project Video](https://github.com/ashish6659/Projects-Details/blob/main/FurnitureStore/Screenshot/VVN20230227_154052.mp4) </p>
+#### <p align="center"> [ Checkout The Project Video](https://github.com/ashish6659/Projects-Details/blob/main/BakeryStore/Screenshot/VNN20230227_161519.mp4) </p>
 
-<video src='https://user-images.githubusercontent.com/68533215/221538271-4b10ae43-1f2a-4f51-801f-3d24e46888ec.mp4'/>
+<video src='https://user-images.githubusercontent.com/68533215/221545154-89d33b8d-e071-4ea1-9101-5670ace090f1.mp4'/>
+
+
+
 <br/>
