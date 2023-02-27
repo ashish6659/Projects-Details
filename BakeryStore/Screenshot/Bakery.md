@@ -2,9 +2,26 @@
 
 
 <p  align="center">
-  
-  An online furniture store that allows users to check for various furniture available at the online store and purchased online. The project consists of a list of furniture products displayed in various models and designs. The user may browse through these products as per categories. If the user likes a product he may add it to his shopping cart. Once a user wishes to checkout he must register on the site first. He can then login using the same id password next time. Then, users can buy furniture online. Thus the online furniture shopping project brings an entire furniture shop online and makes it easy for both buyer and seller to make furniture deals.
+  An online Bakery shop that allows users to check for various bakery 
 
+products available at the online store and purchase online. The project 
+
+consists of list of bakery products displayed in various categories. The 
+
+user may browse through these items as per categories. If the user likes a 
+
+product he may add it to his shopping cart. Once user wishes to checkout 
+
+he must register on the site first. Otherwise he will be unable to order the 
+
+product. After creating Account, he can then login using same id 
+
+password next time. Now he may pay through a credit card or cash on 
+
+delivery. Once the user makes a successful transaction he gets a copy of 
+
+the shopping receipt on his email id.
+  
  <h3 align="center"> Technology used: </h3></p>
 <p  align="center">Java, Servlet, JSP, MySql, HTML, CSS, Bootstrap, JS 
   
