@@ -8,7 +8,7 @@
  <h3 align="center"> Technology used: </h3></p>
 <p  align="center">Java, Servlet, JSP, MySql, HTML, CSS, Bootstrap, JS 
   
-</br>1) Build this Proiect on my Graduation as a minor project. 
+</br>1) Build this Proiect on my Graduation as a major project. 
 </br> 2) This project was built using JAVA, SERVLETS, JSP, HTML, CSS & MYSQL.
 </br> 3)  The Database used in this project is MYSQL Local Database.
 
