@@ -105,7 +105,7 @@
 
 <br/>
 
-#### <p align="center"> [ Download the App.](https://github.com/ashish6659/Projects-Details/blob/main/IPL/ScreenShot/demo_ipl.apk) </p>
+#### <p align="center"> [ Download the App.](https://github.com/ashish6659/Projects-Details/raw/main/IPL/ScreenShot/demo_ipl.apk) </p>
 
 <br/>
 
