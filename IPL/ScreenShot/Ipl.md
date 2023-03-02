@@ -15,7 +15,7 @@
 
 </p>
 
-### <p align="center"> Enjoy the SnapShot of the Website. </p>
+### <p align="center"> Enjoy the SnapShot of the App. </p>
 
  <br/>
 <table>
@@ -98,6 +98,16 @@
   </tr>
  </table>
 <br />
+
+### <p align="center"> ** Important Links **</p>
+
+<h3 align="center"> Download and Install the App to Check the Working.</h3>
+
+<br/>
+
+#### <p align="center"> [ Download the App.](https://github.com/ashish6659/Projects-Details/blob/main/IPL/ScreenShot/demo_ipl.apk) </p>
+
+<br/>
 
 <h3 align="center"> Below is the Screen Recording of the App. Check Working in the Video</h3>
 <br/>
