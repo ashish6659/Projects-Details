@@ -1,5 +1,5 @@
 
-<h3 align="center"> Introducing to Online Furniture Store Website </h3>
+<h3 align="center"> Introducing to IPL Live Score App </h3>
 
 
 <p  align="center">
@@ -7,11 +7,10 @@
   An online furniture store that allows users to check for various furniture available at the online store and purchased online. The project consists of a list of furniture products displayed in various models and designs. The user may browse through these products as per categories. If the user likes a product he may add it to his shopping cart. Once a user wishes to checkout he must register on the site first. He can then login using the same id password next time. Then, users can buy furniture online. Thus the online furniture shopping project brings an entire furniture shop online and makes it easy for both buyer and seller to make furniture deals.
 
  <h3 align="center"> Technology used: </h3></p>
-<p  align="center">Java, Servlet, JSP, MySql, HTML, CSS, Bootstrap, JS 
+<p  align="center">Java, XML, android studio and Secret Api's. 
   
-</br>1) Build this Proiect on my Graduation as a major project. 
-</br> 2) This project was built using JAVA, SERVLETS, JSP, HTML, CSS & MYSQL.
-</br> 3)  The Database used in this project is MYSQL Local Database.
+</br>1) Build this Proiect on my Free time. 
+</br> 2) This project was built using Java, XML, android studio and Secret Api's.
 
 
 </p>
@@ -21,9 +20,9 @@
  <br/>
 <table>
   <tr>
-    <td><p align="center">First Screen Page</p></td>
-    <td><p align="center">Holiday Mention</p></td>
-    <td><p align="center">Present day in purple and selected day in pink</p></td>
+    <td><p align="center">Home Page</p></td>
+    <td><p align="center">Recent Matches</p></td>
+    <td><p align="center">Live Matches</p></td>
   </tr>
   <tr>
     <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/IPL/ScreenShot/Ipl_home.jpg" width=270 height=550></td>
@@ -31,13 +30,13 @@
     <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/IPL/ScreenShot/ipl_live.jpg" width=270 height=550></td>
   </tr>
  </table>
-
+ <br/>
+ 
 <table>
-   <br/>
   <tr>
-    <td><p align="center">First Screen Page</p></td>
-    <td><p align="center">Holiday Mention</p></td>
-    <td><p align="center">Present day in purple and selected day in pink</p></td>
+    <td><p align="center">Scorecard</p></td>
+    <td><p align="center">Overs</p></td>
+    <td><p align="center">Match Info.</p></td>
   </tr>
   <tr>
     <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/IPL/ScreenShot/Ipl_scorecard.jpg" width=270 height=550></td>
@@ -45,13 +44,12 @@
     <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/IPL/ScreenShot/Ipl_info.jpg" width=270 height=550></td>
   </tr>
  </table>
- 
+  <br/>
  <table>
-   <br/>
   <tr>
-    <td><p align="center">First Screen Page</p></td>
-    <td><p align="center">Holiday Mention</p></td>
-    <td><p align="center">Present day in purple and selected day in pink</p></td>
+    <td><p align="center">Match Squad</p></td>
+    <td><p align="center">Points Table</p></td>
+    <td><p align="center">IPL Teams</p></td>
   </tr>
   <tr>
     <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/IPL/ScreenShot/Ipl_squad.jpg" width=270 height=550></td>
@@ -59,16 +57,43 @@
     <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/IPL/ScreenShot/Ipl_teams.jpg" width=270 height=550></td>
   </tr>
  </table>
- 
- 
- <table>
   <br/>
+  
+  <table>
   <tr>
-    <td><p align="center">First Screen Page</p></td>
-    <td><p align="center">Holiday Mention</p></td>
+    <td><p align="center">IPL Stats</p></td>
+    <td><p align="center">IPL Stats List</p></td>
+    <td><p align="center">IPL Squad</p></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/IPL/ScreenShot/Ipl_winner.jpg" width=270 height=550></td>
+    <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/IPL/ScreenShot/Ipl_stats.png" width=270 height=550></td>
+    <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/IPL/ScreenShot/Ipl_statlist.png" width=270 height=550></td>
+    <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/IPL/ScreenShot/Ipl_squad_detail.png" width=270 height=550></td>
+  </tr>
+ </table>
+  <br/>
+  
+  <table>
+  <tr>
+    <td><p align="center">IPL Player</p></td>
+    <td><p align="center">IPL Player Full Detail</p></td>
+   <td><p align="center">IPL Winners</p></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/IPL/ScreenShot/ipl_player.png" width=270 height=550></td>
+    <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/IPL/ScreenShot/Ipl_player_detail.png" width=270 height=550></td>
+     <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/IPL/ScreenShot/Ipl_winner.jpg" width=270 height=550></td>
+  </tr>
+ </table>
+  <br/>
+ 
+ <table>
+  <tr>
+    <td><p align="center">Settings</p></td>
+    <td><p align="center">About Us</p></td>
+  </tr>
+  <tr>
+     <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/IPL/ScreenShot/Ipl_setting.png" width=270 height=550></td>
     <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/IPL/ScreenShot/Ipl_aboutus.jpg" width=270 height=550></td>
   </tr>
  </table>
