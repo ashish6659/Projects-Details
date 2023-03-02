@@ -4,13 +4,16 @@
 
 <p  align="center">
   
-  An online furniture store that allows users to check for various furniture available at the online store and purchased online. The project consists of a list of furniture products displayed in various models and designs. The user may browse through these products as per categories. If the user likes a product he may add it to his shopping cart. Once a user wishes to checkout he must register on the site first. He can then login using the same id password next time. Then, users can buy furniture online. Thus the online furniture shopping project brings an entire furniture shop online and makes it easy for both buyer and seller to make furniture deals.
+  IPL Live Score App is an Android Application whic allows user to enjoy the thrill of IPL with its Ball-by-Ball Commentary.This App Contains the Upcomming Fixtures and Results of Recent Matches. Live Scores with Full Commenatary, Full Scorecard, Overs details, Players details all are available in this App. Players Stats of differents Seasons are also available in the app. The List of All Previous Archieve IPL Seasons are also Included in the App.
 
  <h3 align="center"> Technology used: </h3></p>
 <p  align="center">Java, XML, android studio and Secret Api's. 
   
 </br>1) Build this Proiect on my Free time. 
 </br> 2) This project was built using Java, XML, android studio and Secret Api's.
+</br> 3) Ball-by-Ball Commentary
+</br> 4) All IPL Seasons Included
+</br> 5) Players Details Season-Wise
 
 
 </p>
