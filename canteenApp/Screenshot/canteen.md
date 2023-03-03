@@ -4,16 +4,17 @@
 
 <p  align="center">
   
-  IPL Live Score App is an Android Application whic allows user to enjoy the thrill of IPL with its Ball-by-Ball Commentary.This App Contains the Upcomming Fixtures and Results of Recent Matches. Live Scores with Full Commenatary, Full Scorecard, Overs details, Players details all are available in this App. Players Stats of differents Seasons are also available in the app. The List of All Previous Archieve IPL Seasons are also Included in the App.
+  Online Cafeteria Application will help in reducing the canteen rush and it will also help customers to place and receive orders with less effort. In this application, users had to create an account into the App that helped to enter and authenticate the user. After the authentication the user will be able to view the menu items and in that menu item the details like title of the item, description, price and the availability status of the item is displayed. When the user selects the item an option for add to cart will be displayed with the help of that the user will be able to add the menu item to the cart. After the cart
+module, the Place order option will be displayed and the user will have to make payment of the order using Paytm Gateway Api.
 
  <h3 align="center"> Technology used: </h3></p>
 <p  align="center">Java, XML, android studio and Java Mail API. 
   
-</br>1) Build this Proiect on my Free time. 
-</br> 2) This project was built using Java, XML, android studio and Secret Api's.
-</br> 3) Ball-by-Ball Commentary
-</br> 4) All IPL Seasons Included
-</br> 5) Players Details Season-Wise
+</br>1) Build this Proiect on my Post Graduation as mini project. 
+</br> 2) This project was built using Java, XML, android studio and Java Mail Api.
+</br> 3) Clean UI Design
+</br> 4) QR to validate Orders
+</br> 5) Google Firebase Realtime Database
 
 
 </p>
