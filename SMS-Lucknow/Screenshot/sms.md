@@ -23,9 +23,9 @@
  <br/>
 <table>
   <tr>
-    <td><p align="center">Home Page</p></td>
-    <td><p align="center">Recent Matches</p></td>
-    <td><p align="center">Live Matches</p></td>
+    <td><p align="center">Sign Up Page</p></td>
+    <td><p align="center">Mail Verification</p></td>
+    <td><p align="center">Mail Verification</p></td>
   </tr>
   <tr>
     <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Sms_signup.jpg" width=270 height=550></td>
@@ -37,9 +37,9 @@
  
 <table>
   <tr>
-    <td><p align="center">Scorecard</p></td>
-    <td><p align="center">Overs</p></td>
-    <td><p align="center">Match Info.</p></td>
+    <td><p align="center">Mail Verification</p></td>
+    <td><p align="center">Login Page</p></td>
+    <td><p align="center">Update Profile</p></td>
   </tr>
   <tr>
     <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Sms_email3.jpg" width=270 height=550></td>
@@ -50,9 +50,9 @@
   <br/>
  <table>
   <tr>
-    <td><p align="center">Match Squad</p></td>
-    <td><p align="center">Points Table</p></td>
-    <td><p align="center">IPL Teams</p></td>
+    <td><p align="center">Homepage</p></td>
+    <td><p align="center">Nav Menu</p></td>
+    <td><p align="center">Profile Page</p></td>
   </tr>
   <tr>
     <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Sms_home.jpg" width=270 height=550></td>
@@ -64,9 +64,9 @@
   
   <table>
   <tr>
-    <td><p align="center">IPL Stats</p></td>
-    <td><p align="center">IPL Stats List</p></td>
-    <td><p align="center">IPL Squad</p></td>
+    <td><p align="center">News Feed</p></td>
+    <td><p align="center">Comments</p></td>
+    <td><p align="center">Update Comments</p></td>
   </tr>
   <tr>
     <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Sms_feed.jpg" width=270 height=550></td>
@@ -78,9 +78,9 @@
   
   <table>
   <tr>
-    <td><p align="center">IPL Player</p></td>
-    <td><p align="center">IPL Player Full Detail</p></td>
-   <td><p align="center">IPL Winners</p></td>
+    <td><p align="center">Notice board</p></td>
+    <td><p align="center">Freshers</p></td>
+   <td><p align="center">Freshers Images</p></td>
   </tr>
   <tr>
     <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Sms_Notice.jpg" width=270 height=550></td>
