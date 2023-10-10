@@ -83,8 +83,8 @@
    <td><p align="center">IPL Winners</p></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Sms_Notice.png" width=270 height=550></td>
-    <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Sms_fresher.png" width=270 height=550></td>
+    <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Sms_Notice.jpg" width=270 height=550></td>
+    <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Sms_fresher.jpg" width=270 height=550></td>
      <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Sms_fresher15.jpg" width=270 height=550></td>
   </tr>
  </table>
@@ -96,7 +96,7 @@
     <td><p align="center">About Us</p></td>
   </tr>
   <tr>
-     <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Sms_Feedback.png" width=270 height=550></td>
+     <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Sms_Feedback.jpg" width=270 height=550></td>
     <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Sms_Developer.jpg" width=270 height=550></td>
   </tr>
  </table>
