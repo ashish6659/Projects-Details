@@ -55,9 +55,9 @@
     <td><p align="center">IPL Teams</p></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Ipl_squad.jpg" width=270 height=550></td>
-    <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Ipl_points.jpg" width=270 height=550></td>
-    <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Ipl_teams.jpg" width=270 height=550></td>
+    <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Sms_home.jpg" width=270 height=550></td>
+    <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Sms_Dev.jpg" width=270 height=550></td>
+    <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Sms_Profile.jpg" width=270 height=550></td>
   </tr>
  </table>
   <br/>
@@ -69,9 +69,9 @@
     <td><p align="center">IPL Squad</p></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Ipl_stats.png" width=270 height=550></td>
-    <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Ipl_statlist.png" width=270 height=550></td>
-    <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Ipl_squad_detail.png" width=270 height=550></td>
+    <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Sms_feed.png" width=270 height=550></td>
+    <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Sms_Comment.png" width=270 height=550></td>
+    <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Sms_update_comment.png" width=270 height=550></td>
   </tr>
  </table>
   <br/>
