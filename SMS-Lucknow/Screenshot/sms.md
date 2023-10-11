@@ -120,3 +120,7 @@ We Update Students By Sending Notifications for Each Posts and Notices.
 
 <video align="center" src='https://firebasestorage.googleapis.com/v0/b/sms-lucknow.appspot.com/o/github%2FVN20231011_015856.mp4?alt=media&token=30e631c3-196e-4a68-aedc-2354da235629'/>
 <br/>
+
+ <div align="center">
+  <a href="https://www.youtube.com/watch?v=m6Mx2JYfnYU"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
