@@ -1,21 +1,20 @@
 
-<h3 align="center"> Introducing to IPL Live Score App </h3>
+<h3 align="center"> Introducing to Resso Playlist Downloader App </h3>
+
+<img src="https://github.com/ashish8381/Projects-Details/blob/main/Resso/Screenshot/Resso%20Playlist%20Downloader.png" width=1810 height=550>
 
 
 <p  align="center">
-  
-  IPL Live Score App is an Android Application whic allows user to enjoy the thrill of IPL with its Ball-by-Ball Commentary.This App Contains the Upcomming Fixtures and Results of Recent Matches. Live Scores with Full Commenatary, Full Scorecard, Overs details, Players details all are available in this App. Players Stats of differents Seasons are also available in the app. The List of All Previous Archieve IPL Seasons are also Included in the App.
+  Resso Playlist Downloader app allow user to download song and playlist. User Can be able to search and Play the song online, the song can be searched using the name, Album. And to download Playlist the user had to copy the playlist url from the Resso App and then Paste the Link in the Playlist Download Field. It Will automatically Download the Songs which are in the list
 
  <h3 align="center"> Technology used: </h3></p>
-<p  align="center">Java, XML, android studio and Secret Api's. 
+<p  align="center">Java, XML,Resso Api, android studio and Secret Api's. 
   
 </br>1) Build this Proiect on my Free time. 
-</br> 2) This project was built using Java, XML, android studio and Secret Api's.
-</br> 3) Ball-by-Ball Commentary
-</br> 4) All IPL Seasons Included
-</br> 5) Players Details Season-Wise
-
-
+</br> 2) This project was built using Java, XML,Resso Api, android studio and Secret Api's.
+</br> 3) Search Song by name
+</br> 4) Play Song Online
+</br> 5) Download Resso Playlist using Url
 </p>
 
 ### <p align="center"> Enjoy the SnapShot of the App. </p>
@@ -75,5 +74,5 @@
 
 #### <p align="center"> [ Checkout The Project Video](https://github.com/ashish6659/Projects-Details/blob/main/FurnitureStore/Screenshot/Resso_Video.mp4) </p>
 
-<video align="center" src='https://github.com/ashish6659/Projects-Details/blob/main/FurnitureStore/Screenshot/Resso_Video.mp4'/>
+<video align="center" src='https://github.com/ashish8381/Projects-Details/assets/68533215/f94264a3-d937-4285-8d4e-a9ceebc0fa28'/>
 <br/>
