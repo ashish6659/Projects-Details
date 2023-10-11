@@ -92,8 +92,8 @@
  
  <table>
   <tr>
-    <td><p align="center">Settings</p></td>
-    <td><p align="center">About Us</p></td>
+    <td><p align="center">Feedback</p></td>
+    <td><p align="center">Developed by</p></td>
   </tr>
   <tr>
      <td><img src="https://github.com/ashish6659/Projects-Details/blob/main/SMS-Lucknow/Screenshot/Sms_Feedback.jpg" width=270 height=550></td>
@@ -108,7 +108,7 @@
 
 <br/>
 
-#### <p align="center"> [ Download the App.](https://github.com/ashish6659/Projects-Details/raw/main/SMS-Lucknow/Screenshot/demo_ipl.apk) </p>
+#### <p align="center"> [ Download the App.](https://github.com/ashish6659/Projects-Details/raw/main/SMS-Lucknow/Screenshot/Sms_Lucknow.apk) </p>
 
 <br/>
 
