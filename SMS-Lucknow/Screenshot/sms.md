@@ -1,19 +1,20 @@
 
-<h3 align="center"> Introducing to IPL Live Score App </h3>
+<h3 align="center"> Introducing to SMS Lucknow College App </h3>
 
 
 <p  align="center">
   
-  IPL Live Score App is an Android Application whic allows user to enjoy the thrill of IPL with its Ball-by-Ball Commentary.This App Contains the Upcomming Fixtures and Results of Recent Matches. Live Scores with Full Commenatary, Full Scorecard, Overs details, Players details all are available in this App. Players Stats of differents Seasons are also available in the app. The List of All Previous Archieve IPL Seasons are also Included in the App.
+  SMS Lucknow (Android App) is an Official Android Application of School of Management Sciences, Lucknow . This Application is developed in order to update Faculty, Staff members, and Students Aware of the In-campus Notifications, Events, Functions, Activities and Notices related Information in the Real Time.
+We Update Students By Sending Notifications for Each Posts and Notices.
 
  <h3 align="center"> Technology used: </h3></p>
-<p  align="center">Java, XML, android studio and Secret Api's. 
+<p  align="center">Java, XML, Google Firebase, Google Cloud functions, Android studio. 
   
-</br>1) Build this Proiect on my Free time. 
-</br> 2) This project was built using Java, XML, android studio and Secret Api's.
-</br> 3) Ball-by-Ball Commentary
-</br> 4) All IPL Seasons Included
-</br> 5) Players Details Season-Wise
+</br>1) This is my first Android App. 
+</br> 2) This project was built using Java, XML, android studio, Google Firebase and Google Cloud functions.
+</br> 3) Get College related latest information.
+</br> 4) There is a News Feed that contains Campus Activities/Events.
+</br> 5) Get Push-Notification of every Notice.
 
 
 </p>
