@@ -116,9 +116,14 @@ We Update Students By Sending Notifications for Each Posts and Notices.
 <h3 align="center"> Below is the Screen Recording of the App. Check Working in the Video</h3>
 <br/>
 
+<a href="https://www.youtube.com/watch?v=m6Mx2JYfnYU">
+  <img src="https://github.com/ashish6659/Projects-Details/raw/main/SMS-Lucknow/Screenshot/Sms_video_thumb.jpg" alt="Alt text" width="270" height="550">
+</a>
+
+
 #### <p align="center"> [ Checkout The Project Video](https://firebasestorage.googleapis.com/v0/b/sms-lucknow.appspot.com/o/github%2FVN20231011_015856.mp4?alt=media&token=30e631c3-196e-4a68-aedc-2354da235629) </p>
 
 <video align="center" src='https://firebasestorage.googleapis.com/v0/b/sms-lucknow.appspot.com/o/github%2FVN20231011_015856.mp4?alt=media&token=30e631c3-196e-4a68-aedc-2354da235629'/>
 <br/>
 
-[![Alt text](https://github.com/ashish6659/Projects-Details/raw/main/SMS-Lucknow/Screenshot/Sms_login.jpg)](https://www.youtube.com/watch?v=m6Mx2JYfnYU)
+
