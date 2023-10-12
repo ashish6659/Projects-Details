@@ -1,5 +1,7 @@
 
 <h3 align="center"> Introducing to IPL Live Score App </h3>
+<img src="https://img.onmanorama.com/content/dam/mm/en/sports/cricket/images/2022/2/11/ipl-logo.jpg" width=1810 height=450>
+
 
 
 <p  align="center">
@@ -7,6 +9,17 @@
   IPL Live Score App is an Android Application whic allows user to enjoy the thrill of IPL with its Ball-by-Ball Commentary.This App Contains the Upcomming Fixtures and Results of Recent Matches. Live Scores with Full Commenatary, Full Scorecard, Overs details, Players details all are available in this App. Players Stats of differents Seasons are also available in the app. The List of All Previous Archieve IPL Seasons are also Included in the App.
 
  <h3 align="center"> Technology used: </h3></p>
+<div align="center">
+	<table>
+		<tr>
+      <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png" alt="Material Design" title="Material Design"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/></code></td>
+		</tr>
+	</table>
+</div> 
 <p  align="center">Java, XML, android studio and Secret Api's. 
   
 </br>1) Build this Proiect on my Free time. 
@@ -115,7 +128,7 @@
 <h3 align="center"> Below is the Screen Recording of the App. Check Working in the Video</h3>
 <br/>
 
-#### <p align="center"> [ Checkout The Project Video](https://github.com/ashish6659/Projects-Details/blob/main/FurnitureStore/Screenshot/VVN20230227_154052.mp4) </p>
+#### <p align="center"> [ Checkout The Project Video](https://github.com/ashish8381/Projects-Details/blob/main/IPL/ScreenShot/Ipl_Demo.mp4) </p>
 
 <video align="center" src='https://user-images.githubusercontent.com/68533215/222476739-f10547d8-c4d4-4722-889e-fd572804c202.mp4'/>
 <br/>
