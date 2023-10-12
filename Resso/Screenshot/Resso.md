@@ -8,7 +8,17 @@
   Resso Playlist Downloader app allow user to download song and playlist. User Can be able to search and Play the song online, the song can be searched using the name, Album. And to download Playlist the user had to copy the playlist url from the Resso App and then Paste the Link in the Playlist Download Field. It Will automatically Download the Songs which are in the list
 
  <h3 align="center"> Technology used: </h3></p>
-<p  align="center">Java, XML,Resso Api, android studio and Secret Api's. 
+ <div align="center">
+	<table>
+		<tr>
+      <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png" alt="Material Design" title="Material Design"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/></code></td>
+		</tr>
+	</table>
+</div> 
   
 </br>1) Build this Proiect on my Free time. 
 </br> 2) This project was built using Java, XML,Resso Api, android studio and Secret Api's.
