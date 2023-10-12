@@ -1,4 +1,5 @@
 <h3 align="center"> Introducing to Online Bakery Store Website </h3>
+<img src="https://firebasestorage.googleapis.com/v0/b/ashish827-2999a.appspot.com/o/Online%20Bakery%20Store.jpg?alt=media&token=d98dcdfe-fc94-45b0-ae84-f4f03e173eaa" width=1810 height=450>
 
 
 <p  align="center">
@@ -6,6 +7,18 @@
   An online Bakery shop that allows users to check for various bakery products available at the online store and purchase online. The project consists of list of bakery products displayed in various categories. The user may browse through these items as per categories. If the user likes a product he may add it to his shopping cart. Once user wishes to checkout he must register on the site first. Otherwise he will be unable to order the product. After creating Account, he can then login using same id password next time. Now he may pay through a credit card or cash on delivery. Once the user makes a successful transaction he gets a copy of the shopping receipt on his email id.
   
  <h3 align="center"> Technology used: </h3></p>
+ <div align="center">
+	<table>
+		<tr>
+      <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code></td>
+      <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
+      	<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code</td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" title="eclipse"/></code></td>        </tr>
+	</table>
+</div>
 <p  align="center">Java, Servlet, JSP, MySql, HTML, CSS, Bootstrap, JS 
   
 </br>1) Build this Proiect on my Graduation as a minor project. 
