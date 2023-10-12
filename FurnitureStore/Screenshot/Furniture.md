@@ -1,11 +1,26 @@
 <h3 align="center"> Introducing to Online Furniture Store Website </h3>
 
+<img src="https://github.com/ashish6659/Projects-Details/blob/main/FurnitureStore/Screenshot/furniture_home.png" width="1366px" alt="Home Page" />
+
 
 <p  align="center">
   
   An online furniture store that allows users to check for various furniture available at the online store and purchased online. The project consists of a list of furniture products displayed in various models and designs. The user may browse through these products as per categories. If the user likes a product he may add it to his shopping cart. Once a user wishes to checkout he must register on the site first. He can then login using the same id password next time. Then, users can buy furniture online. Thus the online furniture shopping project brings an entire furniture shop online and makes it easy for both buyer and seller to make furniture deals.
 
  <h3 align="center"> Technology used: </h3></p>
+<div align="center">
+	<table>
+		<tr>
+<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code></td>
+<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
+<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code></td>
+<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code></td>
+<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code></td>
+<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code</td>
+<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" title="eclipse"/></code></td>        
+		</tr>
+	</table>
+</div>
 <p  align="center">Java, Servlet, JSP, MySql, HTML, CSS, Bootstrap, JS 
   
 </br>1) Build this Proiect on my Graduation as a major project. 
