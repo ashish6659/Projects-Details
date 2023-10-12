@@ -1,5 +1,6 @@
 
 <h3 align="center"> Introducing to Online Cafeteria App </h3>
+<img src="https://raw.githubusercontent.com/ashish8381/Projects-Details/main/canteenApp/Screenshot/Canteen.jpg" width=1810 height=550>
 
 
 <p  align="center">
@@ -8,10 +9,21 @@
 module, the Place order option will be displayed and the user will have to make payment of the order using Paytm Gateway Api.
 
  <h3 align="center"> Technology used: </h3></p>
-<p  align="center">Java, XML, android studio and Java Mail API. 
+  <div align="center">
+	<table>
+		<tr>
+      <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png" alt="Material Design" title="Material Design"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/></code></td>
+		</tr>
+	</table>
+</div> 
+<p  align="center">Java, XML, Google Firebase, android studio and Java Mail API. 
   
 </br>1) Build this Proiect on my Post Graduation as mini project. 
-</br> 2) This project was built using Java, XML, android studio and Java Mail Api.
+</br> 2) This project was built using Java, Google Firebase, XML, android studio and Java Mail Api.
 </br> 3) Clean UI Design
 </br> 4) QR to validate Orders
 </br> 5) Google Firebase Realtime Database
@@ -85,7 +97,7 @@ module, the Place order option will be displayed and the user will have to make 
 
 <br/>
 
-#### <p align="center"> [ Download the App.](https://github.com/ashish6659/Projects-Details/raw/main/IPL/ScreenShot/demo_ipl.apk) </p>
+#### <p align="center"> [ Download the App.](https://github.com/ashish6659/Projects-Details/raw/main/canteenApp/Screenshot/canteen.apk) </p>
 
 <br/>
 
