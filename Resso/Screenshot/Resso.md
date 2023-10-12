@@ -72,7 +72,7 @@
 <h3 align="center"> Below is the Screen Recording of the App. Check Working in the Video</h3>
 <br/>
 
-#### <p align="center"> [ Checkout The Project Video](https://github.com/ashish6659/Projects-Details/blob/main/FurnitureStore/Screenshot/Resso_Video.mp4) </p>
+#### <p align="center"> [ Checkout The Project Video](https://github.com/ashish6659/Projects-Details/blob/main//Resso/Screenshot/Resso_Video.mp4) </p>
 
 <video align="center" src='https://github.com/ashish8381/Projects-Details/assets/68533215/f94264a3-d937-4285-8d4e-a9ceebc0fa28'/>
 <br/>
